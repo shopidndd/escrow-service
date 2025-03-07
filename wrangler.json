@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "escrow-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f596ff61-6533-4b62-8de2-d6ce99e59638",
+      "database_name": "db1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
